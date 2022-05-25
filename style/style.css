@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+padding: 0;
+
+
+}
+
+body{
+    background: black;
+    
+}
+.container{
+    margin: 0 auto;
+    width: 1140px;
+    
+}
+
+.header__box{
+margin-right: 50px;
+    margin-top: 50px;
+text-align: center;
+    color: white;
+font-size: 34px;
+}
+
+
+.header__niger{
+    margin-left: 300px;
+    width: 500px;
+    color: white;
+    margin-top: 100px;
+}
+
+.nok{
+   width: 400px;
+}
+
+.nook2{
+    margin-top: 70px;
+margin-left: 150px; 
+    width: 400px;
+
+
+    
+}
+
+
+span{
+    color: white;
+    margin-top: 800px;
+    font-size: 34px;
+margin-left: 400px;
+}
+
+
+
+
